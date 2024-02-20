@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "243789411275",
+    "project_id": "stickersmash-3614f",
+    "storage_bucket": "stickersmash-3614f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243789411275:android:0920983fe555ca275f3c4e",
+        "android_client_info": {
+          "package_name": "com.apsoftware.stickersmash"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbkLCJfOoNmv0OKs3arc1vqbBLVQ2N4yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
